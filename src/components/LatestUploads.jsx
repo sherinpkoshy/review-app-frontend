@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import { useMovies } from "../hooks";
 import MovieListItem from "./MovieListItem";
 
