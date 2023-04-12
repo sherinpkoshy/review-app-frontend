@@ -8,7 +8,7 @@ import NextAndPreviousButton from "../NextAndPreviousButton";
 import NotFoundText from "../NotFoundText";
 
 let currentPageNo = 0;
-const limit = 3;
+const limit = 6;
 
 export default function Actors() {
   const [actors, setActors] = useState([]);
